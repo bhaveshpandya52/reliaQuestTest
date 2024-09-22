@@ -1,0 +1,1 @@
+õ23:41:17.269 [Test worker] ERROR com.example.rqchallenge.employees.service.EmployeeServiceImpl -- Error fetching employee by ID 1: I/O error on GET request for "https://dummy.restapiexample.com/api/v1/employee/1": Connection timed out: connect
